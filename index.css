@@ -8,7 +8,7 @@
     height: 100vh;
     background: linear-gradient(135deg, #0d0d2b, #000c1d);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #d0d8ff;
+    color: #2743d2;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -41,6 +41,6 @@
   }
   
   .highlight {
-    color: #54a9ff;
+    color: white;
     font-weight: bold;
   }
